@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 mykey = "petclinic"
+=======
+mykey = "clarusway"
+>>>>>>> feature/msp-13
 ami = "ami-01cc34ab2709337aa"
 region = "us-east-1"
 instance_type = "t3a.medium"
